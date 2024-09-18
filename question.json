@@ -1,0 +1,430 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Instagram'da kimi stalklıyorsun?"
+    },
+    {
+      "id": 2,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Aşk adına yaptığın en saçma şey neydi?"
+    },
+    {
+      "id": 3,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "İlk aşık olduğun ünlü kimdi?"
+    },
+    {
+      "id": 4,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Ailenin asla bilmemesini umduğun şey nedir?"
+    },
+    {
+      "id": 5,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Bir dizi veya filmden en çok hangi karakterle kendini özdeşleştirebilirsin?"
+    },
+    {
+      "id": 6,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Kendinle ilgili 'Red Flag'lerini söyle."
+    },
+    {
+      "id": 7,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Şimdi görünmez olsaydın ne yapardın?"
+    },
+    {
+      "id": 8,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Sahip olduğun en garip takma ad nedir? Bununla ilgili hikayeyi anlat!"
+    },
+    {
+      "id": 9,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Google'da en son ne aradın?"
+    },
+    {
+      "id": 10,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Yarın uyandığınızda karşı cins olsaydınız ne yapardınız?"
+    },
+    {
+      "id": 11,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Bir günlüğüne herhangi bir kurgusal karakter olabilseydiniz kimi seçerdiniz?"
+    },
+    {
+      "id": 12,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Şimdiye kadar denediğiniz ve gizlice keyif aldığınız en tuhaf yiyecek kombinasyonu nedir?"
+    },
+    {
+      "id": 13,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Vücudunuzun en sevdiğiniz kısmı hangisi ve neden?"
+    },
+    {
+      "id": 14,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Toplumun önünde yaptığınız en utanç verici şey neydi?"
+    },
+    {
+      "id": 15,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Bir ilişki içindeyken hiç gizli bir aşk yaşadınız mı?"
+    },
+    {
+      "id": 16,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Eğer bir süper gücünüz olsaydı bu ne olurdu ve neden?"
+    },
+    {
+      "id": 17,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Onsuz yaşayamayacağınız en sevdiğiniz hobiniz veya aktiviteniz nedir?"
+    },
+    {
+      "id": 18,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Herhangi bir yere seyahat edebilseydiniz nereye giderdiniz ve neden?"
+    },
+    {
+      "id": 19,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Tüm zamanların en sevdiğiniz filmi veya TV şovu hangisidir?"
+    },
+    {
+      "id": 20,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Tüm zamanların en sevdiğiniz dizisi hangisidir?"
+    },
+    {
+      "id": 21,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Herhangi bir hayvanı evcil hayvan olarak besleyebilseydiniz bu ne olurdu ve neden?"
+    },
+    {
+      "id": 22,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Okulda başınıza gelen en utanç verici şey nedir?"
+    },
+    {
+      "id": 23,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Sizce odadaki en çekici kişi kim?"
+    },
+    {
+      "id": 24,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Bu odadaki en korkutucu bulduğunuz kişi kim?"
+    },
+    {
+      "id": 25,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Şu anki aşkın kim?"
+    },
+    {
+      "id": 26,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En büyük korkunuz veya fobiniz nedir?"
+    },
+    {
+      "id": 27,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç önemli bir konuda anne babanıza yalan söylediniz mi? Ne söylediniz?"
+    },
+    {
+      "id": 28,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En sevdiğiniz suçlu zevkiniz nedir?(guilty pleasure)"
+    },
+    {
+      "id": 29,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatınızın herhangi bir anını yeniden yaşayabilseydiniz ne olurdu?"
+    },
+    {
+      "id": 30,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Sarhoşken yaptığınız en kötü şey nedir?"
+    },
+    {
+      "id": 31,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Geceleri hiç evden gizlice çıktınız mı?"
+    },
+    {
+      "id": 32,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç bir film sırasında ağladınız mı? Evet ise hangisi?"
+    },
+    {
+      "id": 33,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Çocukluğunuzda en sevdiğiniz dizi veya çizgi film hangisidir?"
+    },
+    {
+      "id": 34,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç tuhaf veya sıra dışı bir şey yediniz mi? Bu neydi?"
+    },
+    {
+      "id": 35,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç hayali bir arkadaşınız oldu mu?"
+    },
+    {
+      "id": 36,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Herhangi bir kurgusal karakter olabilseydiniz kimi seçerdiniz?"
+    },
+    {
+      "id": 37,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç unutulmaz bir rüya gördünüz mü? Bunu açıkla"
+    },
+    {
+      "id": 38,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç hoşlanmadığın birine iltifat etmek zorunda kaldın mı? Kim?"
+    },
+    {
+      "id": 39,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Son zamanlarda söylediğin bir yalan söyle."
+    },
+    {
+      "id": 40,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Seni en çok rahatsız eden alışkanlık nedir?"
+    },
+    {
+      "id": 41,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatındaki en büyük pişmanlığın nedir?"
+    },
+    {
+      "id": 42,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Şu an odadaki biriyle yer değiştirmek zorunda kalsan, kimle yer değiştirirdin?"
+    },
+    {
+      "id": 43,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç sosyal medyada yalan söyledin mi?"
+    },
+    {
+      "id": 44,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En sevmediğin yemek nedir?"
+    },
+    {
+      "id": 45,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç birini kıskandın mı? Kim?"
+    },
+    {
+      "id": 46,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Bugüne kadar aldığın en kötü hediye nedir?"
+    },
+    {
+      "id": 47,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç biriyle çıkmak için numara yaptın mı?"
+    },
+    {
+      "id": 48,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatında bir kez olsun yapmadığın ama hep yapmak istediğin bir şey nedir?"
+    },
+    {
+      "id": 49,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Çocukken yapmak isteyip de yapamadığın şey nedir?"
+    },
+    {
+      "id": 50,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En son kime özür diledin ve neden?"
+    },
+    {
+      "id": 51,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç internetten tanıştığın biriyle görüştün mü?"
+    },
+    {
+      "id": 52,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç yapmam dediğin bir şeyi yaptın mı?"
+    },
+    {
+      "id": 53,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç para için yalan söyledin mi?"
+    },
+    {
+      "id": 54,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En çok hangi özelliğini beğenmiyorsun?"
+    },
+    {
+      "id": 55,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En çok hangi özelliğini beğeniyorsun?"
+    },
+    {
+      "id": 56,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatındaki en komik olay neydi?"
+    },
+    {
+      "id": 57,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Birinin sırrını saklamak zorunda kaldın mı? Neydi?"
+    },
+    {
+      "id": 58,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Birinin doğum gününü unutup ona sonradan yalan söyledin mi?"
+    },
+    {
+      "id": 59,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En çok hangi özelliğinle gurur duyuyorsun?"
+    },
+    {
+      "id": 60,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatında hiç biriyle tartışmadan arkadaşlığını bitirdin mi?"
+    },
+    {
+      "id": 61,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç birine karşı duygularını gizledin mi?"
+    },
+    {
+      "id": 62,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç aşırıya kaçan bir şaka yaptın mı?"
+    },
+    {
+      "id": 63,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatta en çok neyi değiştirmek isterdin?"
+    },
+    {
+      "id": 64,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En sevdiğin anı nedir?"
+    },
+    {
+      "id": 65,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç gizli hayranın oldu mu?"
+    },
+    {
+      "id": 66,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatındaki en büyük zafer nedir?"
+    },
+    {
+      "id": 67,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "En son ne zaman kendinle gurur duydun?"
+    },
+    {
+      "id": 68,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç en yakın arkadaşını ihmal ettin mi?"
+    },
+    {
+      "id": 69,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç arkadaşını korumak için yalan söyledin mi?"
+    },
+    {
+      "id": 70,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hayatında hiç kimseye anlatmadığın bir olay var mı?"
+    },
+    {
+      "id": 71,
+      "categoryDC": "Doğruluk",
+      "categoryInCategory": "Klasik",
+      "questionText": "Hiç birinin arkasından konuştuğun ortaya çıktı mı?"
+    }
+  ]
+}
