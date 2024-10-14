@@ -425,6 +425,126 @@
       "categoryDC": "Doğruluk",
       "categoryInCategory": "Klasik",
       "questionText": "Hiç birinin arkasından konuştuğun ortaya çıktı mı?"
-    }
+    },
+        {
+          "id": 1,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Sonraki 10 dakika boyunca yabancı aksanla konuşun!"
+        },
+        {
+          "id": 2,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Şimdiye kadar izlediğiniz en komik YouTube videosu hangisidir?"
+        },
+        {
+          "id": 3,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Sahip olduğunuz en sıradışı yetenek nedir?"
+        },
+        {
+          "id": 4,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Son zamanlarda yaptığın en büyük çılgınlık nedir?"
+        },
+        {
+          "id": 5,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Hiç birine aşık olduğunu itiraf ettin mi?"
+        },
+        {
+          "id": 6,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Hiç birini sırf eğlenmek için kandırdın mı?"
+        },
+        {
+          "id": 7,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Eğlenceli",
+          "questionText": "Hiç hoşlandığın birine aşk mektubu yazdın mı?"
+        },
+        {
+          "id": 8,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "Potansiyel bir partnerde aradığınız en çekici özellik nedir?"
+        },
+        {
+          "id": 9,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "Mum ışığında bir akşam yemeği yiyecek olsaydık bana ne pişirirdin?"
+        },
+        {
+          "id": 10,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "Sana beni hatırlatan bir şarkı paylaş ve nedenini söyle."
+        },
+        {
+          "id": 11,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "Hakkımda en çekici bulduğun şey nedir?"
+        },
+        {
+          "id": 12,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "Şimdiye kadar yaptığın en romantik şey nedir?"
+        },
+        {
+          "id": 13,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "İlişkimizin en sevdiğiniz yönü nedir?"
+        },
+        {
+          "id": 14,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Partner",
+          "questionText": "Bir ilişki içindeyken hiç gizli bir aşk yaşadınız mı?"
+        },
+        {
+          "id": 15,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Zor",
+          "questionText": "Hiç aşık olup bundan pişman oldun mu?"
+        },
+        {
+          "id": 16,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Zor",
+          "questionText": "Hiç arkadaşının sevgilisinden hoşlandın mı?"
+        },
+        {
+          "id": 17,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Zor",
+          "questionText": "En yakın arkadaşına hiç yalan söyledin mi?"
+        },
+        {
+          "id": 18,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Zor",
+          "questionText": "Hiç birini bilerek zor durumda bıraktın mı?"
+        },
+        {
+          "id": 19,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Zor",
+          "questionText": "Hiç biriyle sırf yalnız kalmamak için çıkmaya devam ettin mi?"
+        },
+        {
+          "id": 20,
+          "categoryDC": "Doğruluk",
+          "categoryInCategory": "Zor",
+          "questionText": "Hiç arkadaşını kıskandın mı?"
+        }
   ]
 }
