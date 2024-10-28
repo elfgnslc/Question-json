@@ -426,31 +426,31 @@
       "categoryInCategory": "Klasik",
       "questionText": "Hiç birinin arkasından konuştuğun ortaya çıktı mı?"
     },
-        {
+    {
           "id": 1,
           "categoryDC": "Doğruluk",
           "categoryInCategory": "Eğlenceli",
           "questionText": "Sonraki 10 dakika boyunca yabancı aksanla konuşun!"
-        },
-        {
+    },
+    {
           "id": 2,
           "categoryDC": "Doğruluk",
           "categoryInCategory": "Eğlenceli",
           "questionText": "Şimdiye kadar izlediğiniz en komik YouTube videosu hangisidir?"
-        },
-        {
+    },
+    {
           "id": 3,
           "categoryDC": "Doğruluk",
           "categoryInCategory": "Eğlenceli",
           "questionText": "Sahip olduğunuz en sıradışı yetenek nedir?"
-        },
-        {
+    },
+    {
           "id": 4,
           "categoryDC": "Doğruluk",
           "categoryInCategory": "Eğlenceli",
           "questionText": "Son zamanlarda yaptığın en büyük çılgınlık nedir?"
-        },
-        {
+    },
+    {
           "id": 5,
           "categoryDC": "Doğruluk",
           "categoryInCategory": "Eğlenceli",
